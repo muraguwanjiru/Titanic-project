@@ -4,7 +4,7 @@ An interactive Machine Learning web application that predicts passenger survival
 
 ## Live Demo
 You can access and interact with the deployed live web application here:
-**https://streamlit.app**
+**https://muraguwanjiru-titanic-project-app-err3vy.streamlit.app/**
 
 ---
 
